@@ -1,0 +1,14 @@
+{
+  "name": "transcribe-utils",
+  "version": "1.0.0",
+  "description": "Scripts for Amazon Transcribe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amazon.com, Inc.",
+  "license": "Amazon Software License",
+  "dependencies": {
+    "aws-sdk": "^2.218.1"
+  }
+}

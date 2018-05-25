@@ -1,0 +1,5 @@
+###### Sublime Project Files 
+ *.sublime*
+
+#### Node modules ###
+ml-services/Transcribe/node_modules/
