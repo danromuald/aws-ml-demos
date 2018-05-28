@@ -1,5 +1,6 @@
 ###### Sublime Project Files 
- *.sublime*
+*.sublime-workspace
+*.sublime-project
 
 #### Node modules ###
 ml-services/Transcribe/node_modules/
